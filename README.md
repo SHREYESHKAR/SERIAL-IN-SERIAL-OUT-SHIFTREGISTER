@@ -1,17 +1,17 @@
 # NAME : SHREYESHKAR SEKAR
 # REFERENCE NUMBER :24900622
 
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+# EXP 10 : SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
-**AIM:**
+## AIM:
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional table.
 
-**SOFTWARE REQUIRED:**
+## SOFTWARE REQUIRED:
 
 Quartus prime
 
-**THEORY**
+## THEORY
 
 **SISO shift Register**
 
@@ -28,7 +28,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 
 
-**PROGRAM**
+## PROGRAM
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.*/
 
@@ -36,19 +36,19 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 ![WhatsApp Image 2024-12-09 at 4 07 50 PM](https://github.com/user-attachments/assets/cb9e08e4-00d6-4fa1-b730-d45e9a945460)
 
 
-**RTL LOGIC FOR SISO Shift Register**
+## RTL LOGIC FOR SISO Shift Register
 
 ![WhatsApp Image 2024-12-09 at 4 07 26 PM](https://github.com/user-attachments/assets/c7aeb952-c76c-489f-8af0-802181745f3a)
 
 
 
-**TIMING DIGRAMS FOR SISO Shift Register**
+## TIMING DIGRAMS FOR SISO Shift Register
 
 
 ![WhatsApp Image 2024-12-09 at 4 07 13 PM](https://github.com/user-attachments/assets/62dc2015-a79e-41bd-be89-c926e2552fbb)
 
 
-**RESULTS**
+## RESULTS
 
 SISO Shift Register implemented using verilog and validated their functionality using their functional table.
 
